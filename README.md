@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Korkinho21. I'm a engineering student, currently on my last year.
+- 👋 Hi, I’m @Korkinho21. I'm a engineering student based in Valencia, currently on my last year.
 - 👀 I’m interested in everything that involves Physics/Math and so forth. Lately, I discovered Data Science and I think it is really interesting too.
 - 🌱 I’m currently learning to code in Python. 
    I took part of a European Project to do my final degree thesis, my task was to create a model which simulates renewable energies generation, which was feeded from weather data.
